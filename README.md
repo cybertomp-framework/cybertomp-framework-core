@@ -1,5 +1,4 @@
 <div align="center"><img src="https://github.com/manolodd/cybertomp/raw/main/assets/img/cybertomp-logo.png" alt="CyberTOMP logo"/></div>
-![OpenSimMPLS logo](/assets/img/cybertomp-logo.png)
 
 ## CyberTOMP
 
