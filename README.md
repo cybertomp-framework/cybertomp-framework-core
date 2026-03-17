@@ -15,7 +15,9 @@ This process will be somewhat challenging and will take some time. Please be pat
 
 ## Documentation for CyberTOMP® v1 - Aldebaran
 
-The **CyberTOMP® v1 - Aldebaran** documentation is currently distributed across a set of independent publications that collectively describe the framework, its processes, and its associated tools. As part of the ongoing consolidation effort, we are working to produce a **unified, complete, and English‑language documentation set** for **CyberTOMP® v2 - Betelgeuse**, which will integrate and harmonize all existing materials into a single, coherent reference. In the meanwhile the available these a the resources for **CyberTOMP® v1 - Aldebaran**:
+The **CyberTOMP® v1 – Aldebaran** documentation is currently distributed across a collection of independent publications that, together, describe the framework, its processes, and its associated tools. As part of the ongoing consolidation effort, we are working to produce a **unified, complete, and English‑language documentation set** for **CyberTOMP® v2 – Betelgeuse**, which will integrate and harmonize all existing materials into a single, coherent reference.
+
+In the meantime, the following resources are available for **CyberTOMP® v1 – Aldebaran**:
 
 ### Journal Articles
 
