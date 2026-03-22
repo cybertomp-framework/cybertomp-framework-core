@@ -1,9 +1,9 @@
 <div align="center"><img src="/assets/img/cybertomp-logo.png" alt="CyberTOMP logo"/></div>
 
 
-## CyberTOMP® framework core
+## CyberTOMP® Framework Core
 
-**CyberTOMP®** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level cybersecurity standards—such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP® provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
+**CyberTOMP® Framework Core** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level cybersecurity standards—such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP® provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
 
 Although the **CyberTOMP® framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP® addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making.
 
@@ -17,7 +17,7 @@ This process will be somewhat challenging and will take some time. Please be pat
 
 The **CyberTOMP® v1 – Aldebaran** documentation is currently distributed across a collection of independent publications that, together, describe the framework, its processes, and its associated tools. As part of the ongoing consolidation effort, we are working to produce a **unified, complete, and English‑language documentation set** for **CyberTOMP® v2 – Betelgeuse**, which will integrate and harmonize all existing materials into a single, coherent reference.
 
-In the meantime, the following resources are available for **CyberTOMP® v1 – Aldebaran**:
+In the meantime, the following available resources compose the **CyberTOMP® v1 – Aldebaran**:
 
 ### Journal Articles
 
